@@ -162,7 +162,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "plate-left.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
